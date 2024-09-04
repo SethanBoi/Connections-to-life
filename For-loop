@@ -1,0 +1,6 @@
+public static void main(String[] args){
+  for (int unfolded = 10, unfolded > 0, unfolded --){
+    foldClothes;
+}
+  System.out.print("Your clothes have been folded!");
+}
